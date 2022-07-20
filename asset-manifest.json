@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ieltsquest/static/css/main.7b6dcc94.css",
-    "main.js": "/ieltsquest/static/js/main.d2a26061.js",
+    "main.js": "/ieltsquest/static/js/main.d1e2001f.js",
     "static/js/787.dd8c5734.chunk.js": "/ieltsquest/static/js/787.dd8c5734.chunk.js",
     "static/media/IELTSVocab.csv": "/ieltsquest/static/media/IELTSVocab.4fdb8ba3fee761593048.csv",
     "index.html": "/ieltsquest/index.html",
     "main.7b6dcc94.css.map": "/ieltsquest/static/css/main.7b6dcc94.css.map",
-    "main.d2a26061.js.map": "/ieltsquest/static/js/main.d2a26061.js.map",
+    "main.d1e2001f.js.map": "/ieltsquest/static/js/main.d1e2001f.js.map",
     "787.dd8c5734.chunk.js.map": "/ieltsquest/static/js/787.dd8c5734.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b6dcc94.css",
-    "static/js/main.d2a26061.js"
+    "static/js/main.d1e2001f.js"
   ]
 }
